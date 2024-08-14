@@ -1,5 +1,5 @@
 {
-    "name": "rivalex/laravel-intl",
+    "name": "adrianmerk/laravel-intl",
     "description": "Easy to use internationalization functions for Laravel",
     "keywords": [
         "laravel",
@@ -10,6 +10,10 @@
     ],
     "license": "MIT",
     "authors": [
+        {
+          "name": "Adrian Olow",
+          "email": "adrianolowcodes@gmail.com"
+        },
         {
             "name": "Rivalex",
             "email": "info@rivalex.com"
@@ -22,8 +26,8 @@
         "umpirsky/country-list": "^2.0.6",
         "umpirsky/locale-list": "^1.0",
         "punic/punic": "^3.7",
-        "illuminate/support": "^9.5.1",
-        "illuminate/events": "^9.5.1"
+        "illuminate/support": "^9.0|^10.0|^11.0",
+        "illuminate/events": "^9.0|^10.0|^11.0"
     },
     "require-dev": {
         "orchestra/testbench": "^7.1.0",
