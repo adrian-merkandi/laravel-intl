@@ -23,7 +23,7 @@ localized values and formatting of numeric values into their localized patterns.
 Run the following command to install the latest version of the package
 
 ```bash
-composer require rivalex/laravel-intl
+composer require adrianmerk/laravel-intl
 ```
 
 #### Laravel
